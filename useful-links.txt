@@ -1,0 +1,6 @@
+Wordpress Plugins
+https://wordpress.org/plugins/show-ip-address/
+https://wordpress.org/plugins/aws-cdn-by-wpadmin/
+
+AWS Elastic Beanstalk
+https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-hawordpress-tutorial.html

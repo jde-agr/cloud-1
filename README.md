@@ -9,19 +9,18 @@ Introduction to databases, data and cloud servers.
 Hosting a wordpress site on the cloud, with auto scaling, load balancing and CDN.
 
 ## Overall Achievements
-<!-- ![Screenshot](docs/overview.png) -->
-(Image to be uploaded upon marking)
+![Screenshot](docs/overview.png)
 
 ## File Structure
 ```
 cloud_1
 │
+│   diagram.png
 │   README.md
 │   useful-links.txt
 │   
 └───docs
 │
-│   (name of pic for diagram)
 │   cloud-1.en.pdf
 │   overview.png (to be uploaded after marking)
 │
